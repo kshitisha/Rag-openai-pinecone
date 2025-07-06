@@ -1,10 +1,10 @@
-# Retrieval-Augmented Generation (RAG) Model
+# Retrieval-Augmented Generation (RAG)  System for Context-Aware Question Answering
 
 This repo contains a simple but effective **RAG (Retrieval-Augmented Generation)** pipeline using:
 
-- 🧠 **OpenAI** (for language generation)
-- 🧲 **Pinecone** or **FAISS** (for vector similarity search)
-- 🧩 **LangChain** (to link everything together)
+- **OpenAI** (for language generation)
+- **Pinecone** or **FAISS** (for vector similarity search)
+- **LangChain** (to link everything together)
 
 ## 💡 What it does
 
