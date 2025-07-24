@@ -6,7 +6,7 @@ This repo contains a simple but effective **RAG (Retrieval-Augmented Generation)
 - **Pinecone** or **FAISS** (for vector similarity search)
 - **LangChain** (to link everything together)
 
-## 💡 What it does
+## What it does
 
 Given a query, it searches your knowledge base, retrieves relevant chunks, and then feeds them into OpenAI to generate an intelligent response — just like a chatbot with memory!
 
@@ -20,8 +20,19 @@ Given a query, it searches your knowledge base, retrieves relevant chunks, and t
 | LangChain          | Agent framework for chaining     |
 | Sentence Transformers | For text embeddings          |
 
-## ⚙️ Setup Instructions (Optional)
+
+
+##  License
+
+[![License: CC BY-ND 4.0](https://img.shields.io/badge/License-CC%20BY--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nd/4.0/)
+
+This repository is licensed under the [Creative Commons Attribution-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nd/4.0/).
+
+## Setup Instructions
 
 If running locally:
 ```bash
 pip install -r requirements.txt
+
+
+
