@@ -1,4 +1,4 @@
-# Retrieval-Augmented Generation (RAG)  System for Context-Aware Question Answering
+# Retrieval-Augmented Generation (RAG) System for Context-Aware Question Answering
 
 This repo contains a simple but effective **RAG (Retrieval-Augmented Generation)** pipeline using:
 
@@ -12,13 +12,13 @@ Given a query, it searches your knowledge base, retrieves relevant chunks, and t
 
 ## 🛠 Tech Stack
 
-| Tool       | Purpose                          |
-|------------|----------------------------------|
-| OpenAI     | LLM for generating answers       |
-| Pinecone   | Vector DB for retrieval          |
-| FAISS      | Local fallback vector store      |
-| LangChain  | Agent framework for chaining     |
-| Sentence Transformers | For text embeddings  |
+| Tool               | Purpose                          |
+|--------------------|----------------------------------|
+| OpenAI             | LLM for generating answers       |
+| Pinecone           | Vector DB for retrieval          |
+| FAISS              | Local fallback vector store      |
+| LangChain          | Agent framework for chaining     |
+| Sentence Transformers | For text embeddings          |
 
 ## ⚙️ Setup Instructions (Optional)
 
